@@ -1,4 +1,4 @@
-# Suranjila-Jayawardana
+# An AI Recycling Guide
 Group 22
 SortSmart: An AI Recycling Guide
 Project proposal
